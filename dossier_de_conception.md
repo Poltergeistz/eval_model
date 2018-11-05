@@ -69,15 +69,23 @@ Regrouper les outils en un seul afin de faciliter l'UX, le SEO, le recensement d
 
 ### MCD
 
-Voir Conception BDD
+Conception BDD
+https://github.com/Poltergeistz/eval_model/blob/master/Modelisation%20BDD.png
 
 ### DIAGRAMME DES CLASSES
 
-Voir UML Diagramme de classes
+UML Diagramme de classes
+https://github.com/Poltergeistz/eval_model/blob/master/Diagramme%20UML%20de%20classe%20Alumnis%20Simplon.pdf
 
 ### DIAGRAMME DE CAS D'UTILISATION
 
-Voir UML Diagramme de cas d'utilisation
+UML Diagramme de cas d'utilisation
+https://github.com/Poltergeistz/eval_model/blob/master/Cas%20d'utilisation%20Alumnis%20Simplon.pdf
+
+### WIREFRAMES
+
+Wireframes
+https://github.com/Poltergeistz/eval_model/blob/master/Wireframes.png
 
 ### SPECIFICITES TECHNIQUES
 
@@ -89,10 +97,10 @@ Base de données : MySQL
 Avantages : Flexible, robuste, sécurisé. Rapide a déployer.
 
 
-Qualité : Pertinance des contenus, UI/UX intuitif, parcours utilisateur clair.
-Eco-conception/ Performance : Minifier le code, compresser les images, utiliser des CDN.
-Accessibilité : Mobile-first, accessible aux personnes avec handicap.
-Sécurité : Utiliser le guide d'OWASP pour sécuriser l'application.
+- Qualité : Pertinance des contenus, UI/UX intuitif, parcours utilisateur clair.
+- Eco-conception/ Performance : Minifier le code, compresser les images, utiliser des CDN.
+- Accessibilité : Mobile-first, accessible aux personnes avec handicap.
+- Sécurité : Utiliser le guide d'OWASP pour sécuriser l'application.
 
 ## -- DEVELOPPEMENT --
 
