@@ -7,6 +7,8 @@ Application web responsive qui permettra d'accueillir les futurs alumnis Simplon
 
 Sur cette plateforme, ils pourront échanger, améliorer leurs compétences, demander de l'aide voire échanger des opportunités de stage ou d'insertion professionnelle.
 
+L'utilisateur pourra échanger avec les autres alumnis par le biais de ressources (Liens utiles, Exercices), opportunités (Stage & emplois), annonces (Evénements, Formations).
+
 - Utilisateurs : Les Alumnis Simplon, Simplon, des recruteurs et entreprises.
 - Type : Application Web Responsive
 - Date de Livraison souhaitée : N/A
@@ -85,6 +87,12 @@ Framework : Laravel, Vue
 Base de données : MySQL
 
 Avantages : Flexible, robuste, sécurisé. Rapide a déployer.
+
+
+Qualité : Pertinance des contenus, UI/UX intuitif, parcours utilisateur clair.
+Eco-conception/ Performance : Minifier le code, compresser les images, utiliser des CDN.
+Accessibilité : Mobile-first, accessible aux personnes avec handicap.
+Sécurité : Utiliser le guide d'OWASP pour sécuriser l'application.
 
 ## -- DEVELOPPEMENT --
 
