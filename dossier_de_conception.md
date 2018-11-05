@@ -89,12 +89,12 @@ https://github.com/Poltergeistz/eval_model/blob/master/Wireframes.png
 
 ### SPECIFICITES TECHNIQUES
 
-Back-end : PHP
-Front-end : Javascript
-Framework : Laravel, Vue
-Base de données : MySQL
+- Back-end : PHP
+- Front-end : Javascript
+- Framework : Laravel, Vue
+- Base de données : MySQL
 
-Avantages : Flexible, robuste, sécurisé. Rapide a déployer.
+- Avantages : Flexible, robuste, sécurisé. Rapide a déployer.
 
 
 - Qualité : Pertinance des contenus, UI/UX intuitif, parcours utilisateur clair.
